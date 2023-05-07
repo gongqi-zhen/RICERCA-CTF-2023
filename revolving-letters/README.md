@@ -1,4 +1,6 @@
 
+tag: crypto, warmup
+
 Revolving Letters
 93 pts
 

@@ -1,3 +1,5 @@
+tag: welcome, warmup
+
 welcome
 81 pts
 

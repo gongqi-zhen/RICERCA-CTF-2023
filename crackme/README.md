@@ -1,3 +1,4 @@
+tag: reversing, warmup
 
 crackme
 88 pts
