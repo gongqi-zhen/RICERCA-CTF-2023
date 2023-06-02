@@ -13,6 +13,12 @@ Result: gongqi: 589 pts (57th)
 
 # Helpfull Information
 
+20230602 Author Commentary
+
+https://twitter.com/RicercaSec_JP/status/1664547648958001152
+
+https://ricercasecurity.blogspot.com/2023/06/ricerca-ctf-2023-writeup-web.html
+
 https://m5453.hatenablog.com/entry/2023/04/26/001957
 
 https://chocorusk.hatenablog.com/entry/2023/04/23/183504
