@@ -13,6 +13,9 @@ Result: gongqi: 589 pts (57th)
 
 # Helpfull Information
 
+Ricerca CTF 2023 Official Repository
+https://github.com/RICSecLab/ricerca-ctf-2023-public
+
 20230602 Author Commentary
 
 https://twitter.com/RicercaSec_JP/status/1664547648958001152
